@@ -3,12 +3,8 @@
     <img src="https://i.pinimg.com/originals/29/c2/e8/29c2e883fb280a99a669fddc80df9088.jpg" alt="Logo" width="auto" height="128">
   </a>
   
-  <h3 align="center">Sneaker Monitors</h3>
-
-  <p align="center">
-    SNKR Monitor Discord Bot
+  <h3 align="center">Sneaker Monitor</h3>
     <br />
-  </p>
 </p>
 <br />
 
