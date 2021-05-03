@@ -6,7 +6,7 @@
   <h3 align="center">Sneaker Monitors</h3>
 
   <p align="center">
-    A collection of web monitors that notify of restocks or updates on sneaker related sites through Discord Webhook
+    SNKR Monitor Discord Bot
     <br />
   </p>
 </p>
