@@ -2,11 +2,8 @@
   <a  href="https://github.com/vineetbiyani09/Ignis_tech/tree/master/SNKRS_Monitor">
     <img src="https://i.pinimg.com/originals/29/c2/e8/29c2e883fb280a99a669fddc80df9088.jpg" alt="Logo" width="auto" height="128">
   </a>
-  
   <h3 align="center">Sneaker Monitor</h3>
-    <br />
 </p>
-<br />
 
 ## About the Project
 This project aims at providing free web-monitoring for various types of sneakers.
