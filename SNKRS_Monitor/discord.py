@@ -2,7 +2,7 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 
 def hook(product_title, image_url, url, website, category, price, model, stock_status, size_stock, colors) :
 
-    webhook = DiscordWebhook(url = 'YOUR_DISCORD_API_LINK',
+    webhook = DiscordWebhook(url = 'YOUR_DISCORD_WEBHOOK_LINK',
                             username = "SNKRS")
 
     embed = DiscordEmbed(title = product_title,  url = url, color = '03b2f8')
