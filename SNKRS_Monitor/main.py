@@ -5,7 +5,7 @@ from googletrans import Translator
 
 translator = Translator()
 
-webhook = 'https://discordapp.com/api/webhooks/836193707682168872/nE67jL4yu1Y2V0dZY5iiVQghZPpWDDeWSO8bI2Bjc8-8y98YUSn0EFl04n9Y4fa5Hb06'
+webhook = 'YOUR_DISCORD_WEBHOOK_LINK'
 
 header = {'user-agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'}
 
